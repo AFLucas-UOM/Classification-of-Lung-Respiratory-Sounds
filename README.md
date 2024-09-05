@@ -16,7 +16,7 @@ Lung auscultation remains a critical diagnostic tool in healthcare, yet the inte
 ## Features
 - **Deep Learning (DL) Algorithms:** Implementations of Convolutional Neural Networks (CNNs) and Artificial Neural Networks (ANNs) for lung sound classification.
 - **Traditional ML Algorithms:** Support Vector Machines (SVMs) and Random Forests (RFs) are used for comparison.
-- **Data Preprocessing: ** Audio preprocessing techniques including noise reduction, normalization, and feature extraction using Mel-frequency cepstral coefficients (MFCCs).
+- **Data Preprocessing:** Audio preprocessing techniques including noise reduction, normalization, and feature extraction using Mel-frequency cepstral coefficients (MFCCs).
 - **Visualization Tools:** ROC curves, confusion matrices, and precision-recall curves to evaluate model performance.
 
 ## Usage
