@@ -19,6 +19,9 @@ Lung auscultation remains a critical diagnostic tool in healthcare, yet the inte
 - **Data Preprocessing:** Audio preprocessing techniques including noise reduction, normalization, and feature extraction using Mel-frequency cepstral coefficients (MFCCs).
 - **Visualization Tools:** ROC curves, confusion matrices, and precision-recall curves to evaluate model performance.
 
+## Disease Count in Dataset used (Visualisation)
+![Disease Barchart](githubAssets/BARCHART.png)
+
 ## Usage
 
 ### Running the Python Scripts (CNN & ANN)
@@ -66,6 +69,16 @@ Clone the repository:
 - **ANN**: 92% accuracy
 - **SVM**: 70% accuracy
 - **RF**: 74% accuracy
+
+### Results Visualisation
+
+#### CNN & ANN
+
+![CNN & ANN Barchart](githubAssets/BARCHART-CMP.png)
+
+#### SVM & RF
+
+![SVM & RF Barchart](githubAssets/BR-SVM-RF.png)
 
 ## Contribution
 
